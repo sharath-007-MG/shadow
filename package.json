@@ -1,0 +1,20 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "food order",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sharath",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.0",
+    "figlet": "^1.8.0",
+    "ora": "^8.1.1",
+    "react-qr-code": "^2.0.15"
+  },
+  "devDependencies": {
+    "@fakerjs/game": "^1.0.1"
+  }
+}
